@@ -1,0 +1,8 @@
+1.naive 2.memorization 3.tabulation
+
+1.fibonacci
+2.Longest-NonDecresing subsequence
+3.Longest-Common subsequence
+4.Addition Without '+' operator  --> & shift exor
+5.Edit Distance
+6.Binomial Coefficient
